@@ -1,0 +1,25 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AlignTab",
+		"AutoFileName",
+		"CTags",
+		"ExpandRegion",
+		"FileManager",
+		"LaTeX-cwl",
+		"LaTeXSmartQuotes",
+		"LaTeXTools",
+		"Package Control",
+		"PackageResourceViewer",
+		"SublimeCodeIntel",
+		"Theme - itg.flat",
+		"Theme - Soda"
+	],
+	"repositories":
+	[
+	]
+}
